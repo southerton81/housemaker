@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+      
+    
+    <com.google.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+            android:id="@+id/ad"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="a151a2049e14416"
+            ads:loadAdOnCreate="true"
+    />   
+    
+ 
+    
+    <RelativeLayout
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:layout_above="@id/ad"
+       android:orientation="vertical"
+     >
+       
+          
+        
+	<com.kurovsky.houseoftheday.StartMenuView android:id="@+id/StartMenuView"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"/>
+	
+	 <ToggleButton
+    android:id="@+id/soundTogglebutton"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="right"
+    android:textOff="@string/Soundoff"
+    android:textOn="@string/Soundon"
+    android:onClick="onSoundClicked"
+     />
+	 
+	 </RelativeLayout>
+	
+
+	
+
+</RelativeLayout>
+
+

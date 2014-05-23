@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">House Blocks</string>
+    <string name="AllowRollLabelLarge">Сенсор</string>
+    <string name="AllowRollLabelSmall">Наклоняйте телефон для управления</string>
+    <string name="ShowGridLabelLarge">Линии сетки</string>
+    <string name="ShowGridLabelSmall">в фоне</string>
+    <string name="ShowShadowLabelLarge">Тень</string>
+    <string name="ShowShadowLabelSmall">приземления</string>
+    <string name="GameOver">Игра закончена</string>
+    <string name="ConfirmSubmitScore1">У вас</string>
+    <string name="ConfirmSubmitScore2">очков,</string>
+    <string name="SubmitScore">Опубликовать</string>
+    <string name="Cancel">Отменить</string>
+    <string name="ConfirmSubmitScore3">опубликовать в таблице лидеров?</string>
+    <string name="SWARM_APP_KEY">49c3644637d8a04947761f26ecaefd87</string>
+    <string name="SWARM_APP_ID">811</string>
+    <string name="OK_STR">Отлично</string>
+    <string name="SoundLabelLarge">Звук</string>
+    <string name="MusicLabelLarge">Музыка</string>
+    <string name="HelpText">
+
+        Про игру\n\nАвтор Дмитрий Куровский, 2013.\n\n
+        Музыка ##<a href="http://www.playonloop.com/">www.playonloop.com</a>##\n\n##<a href="http://www.playonloop.com/2012-music-loops/still-green/">www.playonloop.com/2012-music-loops/still-green/</a>##\n\n  
+        Звуки ##<a 
+href="http://www.noiseforfun.com/">www.noiseforfun.com</a>##\n\n##<a 
+href="http://www.noiseforfun.com/2012-sound-effects/bowl/">Bowl</a>##\n##<a 
+href="http://www.noiseforfun.com/2013-sound-effects/bump-wood/">Bump-wood</a>##\n##<a 
+href="http://www.noiseforfun.com/2012-sound-effects/shaker/">Shaker</a>##\n##<a 
+href="http://www.noiseforfun.com/2012-sound-effects/woody-03/">Woody-03</a>##\n##<a 
+href="http://www.noiseforfun.com/2012-sound-effects/coin-04/">Coin-04</a>##\n\n\nШрифт Fredoka One, автор 
+Milena Brandao (Google Web Fonts)\n\n\n
+%%Правила\n\n
+Цель игры - создавать разнообразные здания и продавать их. Складывать строения предлагается из фигур разных форм. Чтобы здание было продано необходимо 
+составить его из 6 (или более) блоков одного типа и накрыть крышей. Что за здание без крыши?\n\nНамите кнопку $ чтобы остановить автоматическую продажу - это 
+позволит сконструировать крупное здание. Затем просто нажмите эту кнопку вновь и автопродажа включится.\n\nКстати, если падающие в результате продажи блоки 
+тут же составляют новое строение то начисляются бонусы.%%    
+</string>
+    <string name="PauseLabel">ПАУЗА</string>
+    <string name="PlayLabel">Играть</string>
+    <string name="Level1">Деревня</string>
+    <string name="Level2">Поселок</string>
+    <string name="Level3">Город</string>
+    <string name="Bricks">Кирпич</string>
+    <string name="Wood">Дерево</string>
+    <string name="Tile">Плитка</string>
+    <string name="Stone">Камень</string>
+    <string name="Roof">и накрой крышей</string>
+    <string name="Resume">Продолжить</string>
+    <string name="NewGame">Новая игра</string>
+    <string name="Options">Настройки</string>
+    <string name="Leaderboard">Лидеры</string>
+    <string name="Help">Про игру</string>
+    <string name="Rules1">Построй дом из</string>
+    <string name="Rules2">блоков одного типа</string>
+    <string name="Soundon">Звук вкл</string>
+    <string name="Soundoff">Звук выкл</string>
+    <string name="LocalRecord">Рекорд: </string>
+</resources>

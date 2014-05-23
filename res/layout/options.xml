@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="2dp">
+    
+	<!-- <LinearLayout 
+        android:layout_height="wrap_content" 
+        android:layout_width="fill_parent" 
+        android:orientation="horizontal" 
+        android:padding="4dp">
+        <LinearLayout 
+            android:orientation="vertical" 
+            android:layout_height="wrap_content" 
+            android:layout_width="wrap_content" 
+            android:padding="2dp">
+            <TextView 
+                android:text="@string/AllowRollLabelLarge" 
+                android:id="@+id/RollTextViewBoldLarge" 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content" 
+                android:textSize="23sp" android:textStyle="bold">
+            </TextView>
+            <TextView 
+                android:text="@string/AllowRollLabelSmall" 
+                android:id="@+id/RollTextViewSmall" 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content" 
+                android:textSize="17sp">
+            </TextView>
+        </LinearLayout>
+        <LinearLayout 
+            android:gravity="right" 
+            android:layout_width="fill_parent" 
+            android:layout_height="wrap_content" 
+            android:padding="2dp">
+            <CheckBox 
+                android:id="@+id/checkBox1" 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content">
+            </CheckBox>
+        </LinearLayout>
+    </LinearLayout>  -->
+    
+    <LinearLayout 
+        android:layout_height="wrap_content" 
+        android:layout_width="fill_parent" 
+        android:orientation="horizontal" 
+        android:padding="4dp">
+        <LinearLayout 
+            android:orientation="vertical" 
+            android:layout_height="wrap_content" 
+            android:layout_width="wrap_content" 
+            android:padding="2dp">
+            <TextView 
+                android:text="@string/ShowGridLabelLarge" 
+                android:id="@+id/GridTextViewBoldLarge" 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content" 
+                android:textSize="23sp" android:textStyle="bold">
+            </TextView>
+            <TextView 
+                android:text="@string/ShowGridLabelSmall" 
+                android:id="@+id/GridTextViewSmall" 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content" 
+                android:textSize="17sp">
+            </TextView>
+        </LinearLayout>
+        <LinearLayout 
+            android:gravity="right" 
+            android:layout_width="fill_parent" 
+            android:layout_height="wrap_content" 
+            android:padding="2dp">
+            <CheckBox 
+                android:id="@+id/checkBox2" 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content">
+            </CheckBox>
+        </LinearLayout>
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_height="wrap_content" 
+        android:layout_width="fill_parent" 
+        android:orientation="horizontal" 
+        android:padding="4dp">
+        <LinearLayout 
+            android:orientation="vertical" 
+            android:layout_height="wrap_content" 
+            android:layout_width="wrap_content" 
+            android:padding="2dp">
+            <TextView 
+                android:text="@string/ShowShadowLabelLarge" 
+                android:id="@+id/ShadowTextViewBoldLarge" 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content" 
+                android:textSize="23sp" android:textStyle="bold">
+            </TextView>
+            <TextView 
+                android:text="@string/ShowShadowLabelSmall" 
+                android:id="@+id/ShadowTextViewSmall" 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content" 
+                android:textSize="17sp">
+            </TextView>
+        </LinearLayout>
+        <LinearLayout 
+            android:gravity="right" 
+            android:layout_width="fill_parent" 
+            android:layout_height="wrap_content" 
+            android:padding="2dp">
+            <CheckBox 
+                android:id="@+id/checkBox3" 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content">
+            </CheckBox>
+        </LinearLayout>
+    </LinearLayout>
+    
+    
+     <LinearLayout 
+        android:layout_height="wrap_content" 
+        android:layout_width="fill_parent" 
+        android:orientation="horizontal" 
+        android:padding="4dp">
+     	<LinearLayout 
+            	android:orientation="vertical" 
+           	 android:layout_height="wrap_content" 
+           	 android:layout_width="wrap_content" 
+          	  android:padding="2dp">
+          	  <TextView 
+          	      android:text="@string/SoundLabelLarge" 
+          	      android:id="@+id/SoundViewBoldLarge" 
+          	      android:layout_width="wrap_content" 
+          	      android:layout_height="wrap_content" 
+          	      android:textSize="23sp" android:textStyle="bold">
+          	  </TextView>
+       	 </LinearLayout>
+       	 
+       	 <LinearLayout 
+            android:gravity="right" 
+            android:layout_width="fill_parent" 
+            android:layout_height="wrap_content" 
+            android:padding="2dp">
+            <CheckBox 
+                android:id="@+id/checkBox4" 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content">
+            </CheckBox>
+        </LinearLayout>
+        
+      </LinearLayout>
+      
+      <LinearLayout 
+        android:layout_height="wrap_content" 
+        android:layout_width="fill_parent" 
+        android:orientation="horizontal" 
+        android:padding="4dp">
+     	<LinearLayout 
+            	android:orientation="vertical" 
+           	 android:layout_height="wrap_content" 
+           	 android:layout_width="wrap_content" 
+          	  android:padding="2dp">
+          	  <TextView 
+          	      android:text="@string/MusicLabelLarge" 
+          	      android:id="@+id/MusicViewBoldLarge" 
+          	      android:layout_width="wrap_content" 
+          	      android:layout_height="wrap_content" 
+          	      android:textSize="23sp" android:textStyle="bold">
+          	  </TextView>
+       	 </LinearLayout>
+       	 
+       	 <LinearLayout 
+            android:gravity="right" 
+            android:layout_width="fill_parent" 
+            android:layout_height="wrap_content" 
+            android:padding="2dp">
+            <CheckBox 
+                android:id="@+id/checkBox5" 
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content">
+            </CheckBox>
+        </LinearLayout>
+        
+      </LinearLayout>
+    
+</LinearLayout>
+

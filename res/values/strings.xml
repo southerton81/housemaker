@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">House Blocks</string>
+    <string name="AllowRollLabelLarge">Use sensor</string>
+    <string name="AllowRollLabelSmall">Roll phone to slide piece</string>
+    <string name="ShowGridLabelLarge">Grid lines</string>
+    <string name="ShowGridLabelSmall">Show grid lines in background</string>
+    <string name="ShowShadowLabelLarge">Shadow</string>
+    <string name="ShowShadowLabelSmall">Where the piece is going to land</string>
+    <string name="GameOver">Game over</string>
+    <string name="ConfirmSubmitScore1">You have</string>
+    <string name="ConfirmSubmitScore2">points,</string>
+    <string name="SubmitScore">Submit</string>
+    <string name="Cancel">Cancel</string>
+    <string name="ConfirmSubmitScore3">submit to leaderboard?</string>
+	<string name="SWARM_APP_KEY">49c3644637d8a04947761f26ecaefd87</string>
+    <string name="SWARM_APP_ID">811</string>
+    <string name="OK_STR">Never mind</string>
+    <string name="SoundLabelLarge">Sound</string>
+    <string name="MusicLabelLarge">Music</string>
+    <string name="HelpText">About\n\nGame by Dmitriy Kurovsky, 2013.\n\n
+        Music from ##<a href="http://www.playonloop.com/">www.playonloop.com</a>##\n\n##<a href="http://www.playonloop.com/2012-music-loops/still-green/">www.playonloop.com/2012-music-loops/still-green/</a>##\n\n  
+        Sounds from ##<a 
+href="http://www.noiseforfun.com/">www.noiseforfun.com</a>##\n\n##<a 
+href="http://www.noiseforfun.com/2012-sound-effects/bowl/">Bowl</a>##\n##<a 
+href="http://www.noiseforfun.com/2013-sound-effects/bump-wood/">Bump-wood</a>##\n##<a 
+href="http://www.noiseforfun.com/2012-sound-effects/shaker/">Shaker</a>##\n##<a 
+href="http://www.noiseforfun.com/2012-sound-effects/woody-03/">Woody-03</a>##\n##<a 
+href="http://www.noiseforfun.com/2012-sound-effects/coin-04/">Coin-04</a>##\n\n\nFredoka One Font by 
+Milena Brandao (Google Web Fonts)\n\n\n
+%%Rules\n\nThe goal of House Blocks is to create and sell buildings.\n\nConstruct buildings from different shapes. For the house to be sold compose it from 6 (or more) blocks of the same type and cover with roof. What\'s a house without a roof? \n\nToggle $ button to stop autosell - this will help you to create larger structures. When done press the button to enter the market again.\n\nBy the way, when the house is sold and falling blocks result in the immediate new deal you will get a combo bonus.%%\n\n</string>
+
+    <string name="PauseLabel">PAUSE</string>
+    <string name="PlayLabel">Play</string>
+    <string name="Level1">Village</string>
+    <string name="Level2">Town</string>
+    <string name="Level3">City</string>
+    <string name="Bricks">Bricks</string>
+    <string name="Wood">Wood</string>
+    <string name="Tile">Tile</string>
+    <string name="Stone">Stone</string>
+    <string name="Roof">and cover with Roof</string>
+    <string name="Resume">Resume</string>
+    <string name="NewGame">New game</string>
+    <string name="Options">Options</string>
+    <string name="Leaderboard">Leaderboard</string>
+    <string name="Help">Help</string>
+    <string name="Rules1">Build a house using</string>
+    <string name="Rules2">blocks of one type</string>
+    <string name="Soundon">Sound on</string>
+    <string name="Soundoff">Sound off</string>
+    <string name="LocalRecord">Record: </string>
+</resources>
